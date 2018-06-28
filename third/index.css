@@ -1,0 +1,38 @@
+header {
+    background-color: #d9d9d9;
+    width: auto;
+    height: 100px;
+    
+}
+div {
+    background-color: #0099ff;
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+p {
+    margin: 40px 20px;
+    padding: 15px;
+}
+#blue {
+    background-color: #0099ff;
+    width: auto;
+    height: 100px;
+}
+#teal {
+    background-color: #66ffcc;
+    width: auto;
+    height: 100px;
+}
+#green {
+    background-color: #ccff99;
+    width: auto;
+    height: 100px;
+}
+#yellow {
+    background-color: #ffff66;
+    width: auto;
+    height: 100px;
+}
